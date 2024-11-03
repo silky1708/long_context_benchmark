@@ -1,4 +1,4 @@
-## K-means clustering 
+### K-means clustering 
 
 Here the goal is to create video clusters, each of same size (say N).   
 
